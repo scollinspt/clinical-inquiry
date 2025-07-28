@@ -1,0 +1,24 @@
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Bookdown output
+_bookdown_files/
+*.utf8.md
+*.knit.md
+
+# LaTeX/PDF build artifacts
+*.log
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg
+*.tex
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
